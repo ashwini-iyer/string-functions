@@ -1,7 +1,9 @@
 
 import java.util.*;
 import java.io.*;
-
+/**
+Hacker Rank Question to print the data type of the integer byte or long 
+**/
 
 
 class Datatypes{
